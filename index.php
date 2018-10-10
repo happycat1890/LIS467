@@ -1,4 +1,4 @@
-<?php require_once("SNIPPETS/HEADER.php"); ?>
+<?php require_once("/Users/workaccount/LIS467Site/SNIPPETS/HEADER.php"); ?>
 
    <!-- <div class = "jumbotron jumbotron-fluid" id="HomeSection">  -->
        <!-- <div class="container"> -->
@@ -28,5 +28,5 @@
 
     </p>
 
-<?php require_once("SNIPPETS/FOOTER.php"); ?>
+<?php require_once("/Users/workaccount/LIS467Site/SNIPPETS/FOOTER.php"); ?>
           
