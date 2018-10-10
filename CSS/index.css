@@ -1,0 +1,41 @@
+
+#headerNav {
+    top: 15%;
+}
+
+#HomeSection  {
+    background: #e74c3c;
+    color: white;
+    padding: 0;
+}
+
+#ContactSection {
+  background-color:#000000;
+  color:#557f97;
+  margin-top:2rem;
+  margin-bottom:2rem; 
+  padding-top:2rem;
+  padding-bottom:2rem;
+}
+  
+#ContactButtonContainer {
+  
+}
+
+#navbar-btn-group {
+    right: 0px;
+}
+
+.teamMemberContainer {
+  padding:5px;
+}
+
+.teamMemberImage {
+  margin-bottom:10px;
+}
+
+.socialImages {
+  width:50px;
+}
+
+/
