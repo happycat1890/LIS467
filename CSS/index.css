@@ -4,9 +4,6 @@
 }
 
 #HomeSection  {
-    background: #e74c3c;
-    color: white;
-    padding: 0;
 }
 
 #ContactSection {
@@ -18,24 +15,17 @@
   padding-bottom:2rem;
 }
   
-#ContactButtonContainer {
-  
-}
-
-#navbar-btn-group {
-    right: 0px;
-}
-
-.teamMemberContainer {
-  padding:5px;
-}
-
-.teamMemberImage {
-  margin-bottom:10px;
-}
 
 .socialImages {
   width:50px;
 }
 
-/
+
+/*Tab Bar Boilerplate*/
+
+#tab-container {
+}
+
+.tab {
+}
+
