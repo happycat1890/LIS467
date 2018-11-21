@@ -1,4 +1,4 @@
-<footer class="footer" style = "background-color: #aabfcb; overflow: auto;">
+<footer class="footer" style = "background-color: #c6d3db; width: 100% !important; padding-top: 1%">
 <hr style = "border-width: 0px !important;">
     <!-- What do we need in this footer?
         Color scheme somewhat selected
@@ -19,12 +19,15 @@ We are changing:
         Font: Previous font: Verdana, Sans-serif
 
     -->
+    <!-- Google Fonts -->
+    <link rel = "stylesheet" href ="https://fonts.googleapis.com/css?family=Lato"/>
+    <link rel = "stylesheet" href= "https://fonts.googleapis.com/css?family=Playfair+Display"/>
 
-      <div class="container-fluid pt-8 pl-8 pull-right">
-<div class = "row" style = "text-align: center !important;">
-            <div class = "col-lg-4 col-md-4 col-sm-4 col-xs-4">
+      <div class="container-fluid" >
+<div class = "row" style = "text-align: center !important; font-family: Lato, Arial;">
+            <div class = "col">
 
-                <p style = "font-family:Arial;"> <!-- Will try things without the location tags for now -->
+                <p style = "font-family:Lato, Arial;"> <!-- Will try things without the location tags for now -->
                     <strong> Address </strong> <br>
                     Pendleton Country Public Library <br>
                     801 Robbins Ave <br>
@@ -32,8 +35,8 @@ We are changing:
                 </p>
             </div>
 
-            <div class = "col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                <p style = "font-family: Arial;">
+            <div class = "col">
+                <p style = "font-family: Lato, Arial;">
                     <strong> Contact Us </strong> <br>
                     Telephone: 859-654-8535 <br>
                     Fax: 859-654-8538 <br>
@@ -41,8 +44,8 @@ We are changing:
                 </p>
             </div>
 
-            <div class = "col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                <p style = "font-family: Arial;">
+            <div class = "col">
+                <p style = "font-family: Lato, Arial;">
                     <strong> Hours of Operation </strong><br>
                     Monday - Saturday: 9am - 8pm <br>
                     Sunday: 1pm - 5pm
@@ -53,7 +56,7 @@ We are changing:
      <br>
 <div class = "row" style = "text-align: center !important;">
     <div class = "col-lg-12 col-md-12">
-    <p style = "font-family: Arial;">
+    <p style = "font-family: Lato, Arial;">
                 <!-- <strong> Mission Statement </strong> <br> -->
                 "The Pendleton County Public Library exists to connect our community, explore the world, imagine what can be, and create."
             </p>
